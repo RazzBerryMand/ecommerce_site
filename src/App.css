@@ -26,3 +26,6 @@ color: var(--mainBlue);
   color: var(--lightBlue);
 }
 
+i{
+  color: var(--mainYellow);
+}
