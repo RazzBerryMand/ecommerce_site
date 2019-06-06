@@ -1,9 +1,9 @@
 :root {
-  --mainBlue: #2a2a72;
-  --lightBlue: #009ffd;
-  --mainWhite: #f3f3f3;
-  --mainDark: #232528;
-  --mainYellow: #ffa400;
+  --mainBlue: #273956;
+  --darkGreen: #68b100;
+  --mainWhite: #ffffff;
+  --mainDark: #303030;
+  --lightGreen: #90cd3f;
 }
 
 body {
@@ -23,9 +23,9 @@ body {
 }
 
 .text-bright {
-  color: var(--lightBlue);
+  color: var(--darkGreen);
 }
 
 i {
-  color: var(--mainYellow);
+  color: var(--lightGreen);
 }
