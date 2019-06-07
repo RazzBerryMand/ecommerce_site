@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 30,
     company: "NINTENDO",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -18,7 +18,7 @@ export const storeProducts = [
     price: 26,
     company: "NINTENDO",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -30,7 +30,7 @@ export const storeProducts = [
     price: 8,
     company: "XBOX",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -42,7 +42,7 @@ export const storeProducts = [
     price: "FREE",
     company: "XBOX",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -54,7 +54,7 @@ export const storeProducts = [
     price: 24,
     company: "NINTENDO",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -66,7 +66,7 @@ export const storeProducts = [
     price: 17,
     company: "XBOX",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -78,7 +78,7 @@ export const storeProducts = [
     price: 20,
     company: "XBOX",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -90,7 +90,7 @@ export const storeProducts = [
     price: 4,
     company: "NINTENDO DS",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,7 +104,7 @@ export const detailProduct = {
   price: 30,
   company: "NINTENDO",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Bacon ipsum dolor amet rump shoulder short loin pork boudin. Cow boudin brisket shoulder landjaeger prosciutto fatback flank tail venison jowl meatloaf salami pastrami pork loin. Ball tip tri-tip picanha drumstick. Meatball fatback jerky, ham hock doner kielbasa cow kevin bacon shankle short ribs sausage sirloin pork belly buffalo. Jerky hamburger salami kielbasa ham pork chop beef shank sirloin sausage tongue. Doner drumstick meatball pork chop.",
   inCart: false,
   count: 0,
   total: 0
