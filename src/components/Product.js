@@ -15,12 +15,7 @@ export default class Product extends Component {
             onClick={() => console.log("you clicked me on the image container")}
           >
             <Link to="/details">
-              {/* <img src={img} alt="product" className="card-img-top" /> */}
-              <img
-                src="http://rickandmortytv.ru/images/hero/morty_smith.jpg"
-                alt="product"
-                className="card-img-top"
-              />
+              <img src={img} alt="product" className="card-img-top" />
             </Link>
             <button
               className="cart-btn"

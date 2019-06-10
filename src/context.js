@@ -40,7 +40,6 @@ class ProductProvider extends Component {
           addToCart: this.addToCart
         }}
       >
-        <button onClick={this.tester}>test me</button>
         {this.props.children}
       </ProductContext.Provider>
     );
